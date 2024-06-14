@@ -1,8 +1,8 @@
 nginx
+centos
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
-centos
-corentinth/it-tools
+corentinth/it-tools:2024.5.13-a0bc346
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
