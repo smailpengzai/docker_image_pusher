@@ -1,14 +1,14 @@
-nginx
-centos
-mariadb
+#nginx
+#centos
+#mariadb
 #lx-music-sync-server
 #支持私库
 node:20-bookworm-slim
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-corentinth/it-tools:2024.5.13-a0bc346
-witersencom/svnadmin:2.5.7
-maven:3.6.1-jdk-14
-docker.io/xiaoyaliu/glue:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
+#corentinth/it-tools:2024.5.13-a0bc346
+#witersencom/svnadmin:2.5.7
+#maven:3.6.1-jdk-14
+#docker.io/xiaoyaliu/glue:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
